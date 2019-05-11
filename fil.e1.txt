@@ -1,8 +1,6 @@
 okay 1
 hery getddik !!
 oppalara !
-<<<<<<< HEAD
 aha ! beledeki test 1 ve test 2 blet !
->>>>>>> test2
 Hotfixde mueyyen buglari duzeltdim !
 Test branchda da deyishiklikler eledim !
